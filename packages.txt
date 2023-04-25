@@ -1,0 +1,6 @@
+fastqc
+multiqc
+trimmomatic
+star
+qualimap
+subread
